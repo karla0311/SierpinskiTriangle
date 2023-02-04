@@ -2,7 +2,7 @@ int len = 0;
 int x = 0;
 int y = 0;
 public void setup(){
-  size(600,600);
+  size(1200,700);
   background(0);
 }
 
